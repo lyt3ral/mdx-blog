@@ -4,7 +4,7 @@ pubDatetime: 2024-04-05T09:24:21.000+05:30
 modDatetime:
 title: A test post!
 featured: true
-draft: true
+draft: false
 tags:
   - test
   - blog
