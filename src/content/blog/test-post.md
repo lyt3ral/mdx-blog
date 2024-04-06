@@ -2,22 +2,22 @@
 author: Sai Sabarish
 pubDatetime: 2024-04-05T09:24:21.000+05:30
 modDatetime:
+slug: first-post
 title: A test post!
 featured: true
 draft: false
 tags:
-  - test
   - blog
   - post
-description: this is a test post on the blog
+description: "EXAMPLE POST: this is my first test post on the blog"
 ---
 
 This is my test post, check out the rest of the blog!
 
-## Table of contents
+## What we have here
 
-- some cool stuff
-- more cool stuff
+1. some cool stuff
+2. more cool stuff
 
 ## Some cool stuff
 
