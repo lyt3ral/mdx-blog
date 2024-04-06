@@ -1,7 +1,7 @@
 ---
 author: Sai Sabarish
 pubDatetime: 2024-04-05T09:24:21.000+05:30
-modDatetime:
+modDatetime: 2024-04-06T18:19:38Z
 slug: first-post
 title: A test post!
 featured: true
@@ -21,4 +21,5 @@ This is my test post, check out the rest of the blog!
 
 ## Some cool stuff
 
-IDK man I'm out of ideas!
+IDK man I'm out of ideas!  
+Updated to test the pre-hook!
