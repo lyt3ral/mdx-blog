@@ -1,10 +1,10 @@
 ---
 author: Sai Sabarish 
 pubDatetime: 2024-10-27T12:50:59.000+05:30
-modDatetime: 
+modDatetime:
 title: Vim Part I
 featured: false
-draft: true
+draft: false
 tags:
   - vim
   - productivity
