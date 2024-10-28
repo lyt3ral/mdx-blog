@@ -3,8 +3,8 @@ author: Sai Sabarish
 pubDatetime: 2024-10-28T14:10:01.000+05:30
 modDatetime: 
 title: Vim Part II
-featured: false
-draft: true
+featured: true
+draft: false
 tags:
   - vim
   - productivity 

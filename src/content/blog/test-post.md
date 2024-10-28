@@ -4,7 +4,7 @@ pubDatetime: 2024-04-05T09:24:21.000+05:30
 modDatetime: 2024-04-06T18:25:49.000+05:30
 slug: first-post
 title: A test post!
-featured: true
+featured: false
 draft: false
 tags:
   - blog
